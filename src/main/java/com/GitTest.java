@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("git test ~~~");
         System.out.println("git test ~~~");
         System.out.println("git test ~~~ 0001");
+        System.out.println("git test ~~~ pull");
     }
 }
